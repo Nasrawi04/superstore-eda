@@ -83,7 +83,7 @@ superstore-eda/
 
 1. Clone the repo
    ```bash
-   git clone https://github.com/YourUsername/superstore-eda.git
+   git clone https://github.com/Nasrawi04/superstore-eda.git
    ```
 2. Download the dataset from [Kaggle](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final) and place the CSV in the project folder
 3. Open `superstore_eda.ipynb` in Jupyter Notebook or [Google Colab](https://colab.research.google.com)
